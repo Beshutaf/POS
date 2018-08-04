@@ -44,9 +44,9 @@ export default {
   name: 'App',
   data () {
     return {
-      drawer: true,
+      drawer: false,
       items: [{
-        icon: 'bubble_chart',
+        icon: 'shopping_cart',
         title: 'קופה'
       }],
       title: 'קואופרטיב בשותף'
